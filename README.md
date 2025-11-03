@@ -10,7 +10,7 @@
 - App: Streamlit — pick a user, adjust hybrid weight, get top‑N recommendations
 
 ## Quickstart (Windows)
-cd "C:\Users\inson\OneDrive\Desktop\Data Science Projects\movielens-recommender"
+cd "./movielens-recommender"
 
 - 1) Setup (Python 3.11 recommended)
 py -3.11 -m venv .venv
